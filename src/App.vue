@@ -2,7 +2,7 @@
 
 <template>
   <div class="wrapper">
-    <h1>App.vue</h1>
+    <h1 class="text-3xl">Hello worlddasdsadasdads!</h1>
   </div>
 </template>
 
